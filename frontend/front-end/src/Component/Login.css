@@ -1,0 +1,25 @@
+.inputBox{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+} 
+.login{
+    margin-left: 30%;
+    margin-top: 70px;
+}
+.btn{
+    margin-left: 3%;
+    padding: 6px 14px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: skyblue;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(54, 179, 229);
+
+}
